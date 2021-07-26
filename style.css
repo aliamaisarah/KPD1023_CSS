@@ -11,11 +11,11 @@
              border-width: 5;
              width: 80%;
          }
-         .table2 {
+         .section_1 {
              border-width: 2;
              width: 40%;
          }
-         .table2:hover {
+         .section_1:hover {
              background-color: wheat;
          }
          td {
